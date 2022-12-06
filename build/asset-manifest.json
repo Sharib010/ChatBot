@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5e4bf90b.css",
+    "main.js": "/static/js/main.80b9f079.js",
+    "static/js/787.8fb4aeac.chunk.js": "/static/js/787.8fb4aeac.chunk.js",
+    "static/media/mixkit-sci-fi-click-900.mp3": "/static/media/mixkit-sci-fi-click-900.94d2429231b6b67beccf.mp3",
+    "index.html": "/index.html",
+    "main.5e4bf90b.css.map": "/static/css/main.5e4bf90b.css.map",
+    "main.80b9f079.js.map": "/static/js/main.80b9f079.js.map",
+    "787.8fb4aeac.chunk.js.map": "/static/js/787.8fb4aeac.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5e4bf90b.css",
+    "static/js/main.80b9f079.js"
+  ]
+}
